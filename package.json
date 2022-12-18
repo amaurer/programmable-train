@@ -1,0 +1,22 @@
+{
+  "name": "motor-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amaurer",
+  "license": "ISC",
+  "dependencies": {
+    "pigpio": "^3.3.1",
+    "socket.io": "^4.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "mocha": "^10.2.0",
+    "nodemon": "^2.0.20",
+    "yarn": "^1.22.19"
+  }
+}
