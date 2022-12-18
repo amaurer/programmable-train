@@ -10,6 +10,7 @@
   "author": "amaurer",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.21",
     "pigpio": "^3.3.1",
     "socket.io": "^4.5.4"
   },
