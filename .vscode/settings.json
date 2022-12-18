@@ -1,0 +1,9 @@
+{
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "eslint.lintTask.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"]
+}
