@@ -8,7 +8,7 @@
     "test": "mocha"
   },
   "author": "amaurer",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21",
     "pigpio": "^3.3.1",
