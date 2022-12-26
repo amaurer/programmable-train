@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon .",
-    "test": "mocha"
+    "start": "sudo nodemon .",
+    "test": "sudo node ./test/index.js"
   },
   "author": "amaurer",
   "license": "MIT",
